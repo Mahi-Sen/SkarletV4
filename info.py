@@ -51,14 +51,14 @@ TUTORIAL = environ.get("TUTORIAL", "https://t.me/Dev77_xD")
 TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/Dev")
 TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/Dev77")
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
-SHORTENER_API = environ.get("SHORTENER_API", "3097623f852197a9ce40d1212aaa8bbf2803e799")
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'omegalinks.in')
-SHORTENER_API2 = environ.get("SHORTENER_API2", "3097623f852197a9ce40d1212aaa8bbf2803e799")
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'omegalinks.in')
-SHORTENER_API3 = environ.get("SHORTENER_API3", "3097623f852197a9ce40d1212aaa8bbf2803e799")
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'omegalinks.in')
-TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "72000"))
-THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "14400"))
+SHORTENER_API = environ.get("SHORTENER_API", "7bcb54b79305587f9b873288ba44a22028606269")
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'yorurl.com')
+SHORTENER_API2 = environ.get("SHORTENER_API2", "fc306dc85f55f5a8625cf81fc14d0e0477eb473e")
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'yorurl.com')
+SHORTENER_API3 = environ.get("SHORTENER_API3", "0a5b1d04f1a2afd57b797784d02ed2af7dc73c59")
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'yorurl.com')
+TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "21600"))
+THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "21600"))
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 LANGUAGES = ["hindi", "english", "telugu", "tamil", "kannada", "malayalam", "bengali", "marathi", "gujarati", "punjabi"]
@@ -74,8 +74,8 @@ REQUEST_CHANNEL = int(request_channel) if request_channel and id_pattern.search(
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 START_IMG = (environ.get('START_IMG', 'https://envs.sh/7j2.jpg')).split()
-FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://envs.sh/7j2.jpg')
-REFER_PICS = (environ.get("REFER_PICS", "https://envs.sh/PSI.jpg")).split() 
+FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://envs.sh/7mw.jpg')
+REFER_PICS = (environ.get("REFER_PICS", "https://envs.sh/7f-.jpg")).split() 
 PAYPICS = (environ.get('PAYPICS', 'https://envs.sh/ZPI.jpg')).split()
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/zkr.jpg'))
 REACTIONS = ["😱", "😈", "🎉", "⚡️", "😎", "🏆", "🔥", "👻"]
